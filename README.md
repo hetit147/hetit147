@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Het Italiya</h1>
 <h3 align="center">learning</h3>
 
-- 🌱 I’m currently learning ** C++,C**
+- 🌱 I’m currently learning **C++,C**
 
 - 📫 How to reach me **hetit147@gmail.com**
 
